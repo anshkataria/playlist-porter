@@ -1,4 +1,4 @@
-package com.playlistporter.backend;
+package com.playlistporter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
